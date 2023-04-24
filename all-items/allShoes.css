@@ -14,6 +14,8 @@ body .search {
   padding: 0.7rem;
   display: flex;
   align-items: center;
+  position: sticky;
+  top: 0;
 }
 body .search .bx-search-alt-2 {
   position: absolute;

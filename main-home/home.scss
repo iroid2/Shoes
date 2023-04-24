@@ -86,13 +86,13 @@
             position: relative;
             i{
                 position: absolute;
-                left: 4rem;
+                left: 3rem;
                 color: black;
                 display: flex;
                 font-size: 1.2rem;
                 justify-content: center;
                 @media(max-width:768px){
-                    left: 2rem;
+                    left: 4rem;
                 }
                 // background-color: red;
             }
